@@ -23,51 +23,51 @@ El sistema MediaPro se organiza en los siguientes módulos:
     
     * Tablas: Cliente, Produccion
 
-3. Módulo de Peronal
+2. Módulo de Peronal
    
-Gestiona el personal técnico y creativo asignado a cada producción.
-
-* Tablas: Personal, Produccion_Personal
+   Gestiona el personal técnico y creativo asignado a cada producción.
+   
+   * Tablas: Personal, Produccion_Personal
 
 3. Módulo de Rodaje
    
-Planifica y organiza los días de grabación, incluyendo escenas, actores y recursos.
+   Planifica y organiza los días de grabación, incluyendo escenas, actores y recursos.
 
-* Tablas: Plan_Rodaje, Plan_Rodaje_Escena, Plan_Rodaje_Actor, Plan_Rodaje_Equipo
+   * Tablas: Plan_Rodaje, Plan_Rodaje_Escena, Plan_Rodaje_Actor, Plan_Rodaje_Equipo
 
 4. Módulo de Escenas y Actores
+  
+   Administra las escenas, personajes y actores que participan en la producción.
    
-Administra las escenas, personajes y actores que participan en la producción.
-
-* Tablas: Escena, Actor, Personaje, Escena_Actor
+   * Tablas: Escena, Actor, Personaje, Escena_Actor
 
 5. Módulo de Equipos Técnicos
    
-Gestiona los equipos utilizados en las producciones y su mantenimiento.
+   Gestiona los equipos utilizados en las producciones y su mantenimiento.
 
-* Tablas: Equipo_Tecnico, Mantenimiento, Produccion_Equipo
+   * Tablas: Equipo_Tecnico, Mantenimiento, Produccion_Equipo
 
  6. Módulo de Material Grabado
-    
-Registra el material audiovisual generado durante el rodaje.
 
-* Tablas: Material_Grabado, Audio
+    Registra el material audiovisual generado durante el rodaje.
+
+    * Tablas: Material_Grabado, Audio
 
  7. Módulo de Postproducción
-    
-Controla los procesos de edición, versiones y aprobación del material.
 
-* Tablas: Postproduccion, Material_Postproduccion, Versiones, Aprobacion
+    Controla los procesos de edición, versiones y aprobación del material.
+
+    * Tablas: Postproduccion, Material_Postproduccion, Versiones, Aprobacion
 
 8. Módulo de Distribución
-   
-Gestiona la distribución y promoción de las producciones audiovisuales.
 
-* Tablas: Distribucion, Material_Promocional
+   Gestiona la distribución y promoción de las producciones audiovisuales.
+
+   * Tablas: Distribucion, Material_Promocional
 
 9. Módulo de Automatización
-   
-Implementa funcionalidades avanzadas mediante procedimientos almacenados y vistas.
 
-* Stored Procedures
-* Views
+   Implementa funcionalidades avanzadas mediante procedimientos almacenados y vistas.
+
+   * Stored Procedures
+   * Views
