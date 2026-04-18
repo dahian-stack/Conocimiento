@@ -18,7 +18,7 @@ El sistema MediaPro se organiza en los siguientes módulos:
  1. Módulo de Producción
 Encargado de gestionar la información de las producciones audiovisuales y sus clientes.
 * Tablas: Cliente, Produccion
-* 
+  
 2. Módulo de Peronal
 Gestiona el personal técnico y creativo asignado a cada producción.
 * Tablas: Personal, Produccion_Personal
