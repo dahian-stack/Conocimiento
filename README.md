@@ -9,7 +9,7 @@ El sistema facilita la organización de la informacion y optimiza los procesos m
 2. Seleccionar la base de datos donde se ejecutarán los scripts.
 3. Ejecutar el archivo Scrip - AudiovisualMediapro.txt, el cual contiene los procedimientos almecenados y vistas del sistema.
 4. Verificar la creación de los procedimientos y vistas mediante consultas como:
-   SHOW PROCEDURE STATUS
+   SHOW PROCEDURE STATUS --
    SHOW FULL TABLES WHERE Table_type = 'VIEW'
 
 # Estructura de módulos implementados
