@@ -18,7 +18,6 @@ El sistema facilita la organización de la informacion y optimiza los procesos m
 El sistema MediaPro se organiza en los siguientes módulos:
 
  1. Módulo de Producción
-    
 Encargado de gestionar la información de las producciones audiovisuales y sus clientes.
 
 * Tablas: Cliente, Produccion
