@@ -14,6 +14,11 @@ El sistema facilita la organización de la informacion y optimiza los procesos m
    
    SHOW FULL TABLES WHERE Table_type = 'VIEW'
 
+Notas
+
+- Asegúrese de ejecutar primero el script de la base de datos antes de las funciones y triggers.
+- Verifique que las tablas estén correctamente creadas antes de ejecutar los demás archivos.
+
 # Estructura de módulos implementados
 El sistema MediaPro se organiza en los siguientes módulos:
 
